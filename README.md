@@ -35,10 +35,10 @@ API used: https://covid19.mathdro.id/api
 
 #### Muhammad Haris Baig
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-C_B-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/harris-baig-3a890a203/)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-H_B-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/harris-baig-3a890a203/)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-C_B-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Harrisbaig7)
+[![GitHub Follow](https://img.shields.io/badge/Connect-H_B-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Harrisbaig7)
 
 Copyright (c) 2022 HB
